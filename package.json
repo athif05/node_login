@@ -1,12 +1,12 @@
 {
   "name": "node_login",
   "version": "1.0.0",
-  "description": "",
+  "description": "test node app",
   "main": "login.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Atif",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.2",
@@ -14,5 +14,19 @@
     "express-validator": "^6.14.0",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athif05/node_login.git"
+  },
+  "keywords": [
+    "node",
+    "testing",
+    "application"
+  ],
+  "bugs": {
+    "url": "https://github.com/athif05/node_login/issues"
+  },
+  "homepage": "https://github.com/athif05/node_login#readme"
 }
